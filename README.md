@@ -1,0 +1,1 @@
+# athena-date-partitioning
